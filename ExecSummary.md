@@ -1,4 +1,4 @@
-## Executive Summary
+# Executive Summary
 
 ### Why is this an Issue?
   This system has been implemented for the main purpose of making certain processes in the company easier and more streamlined. The implementation of this system should overall increase productivity at the company due to the fact that employees are spending
