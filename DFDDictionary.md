@@ -6,17 +6,19 @@
 
 ## Processes:
 
-Scan for Licenses:
+ * Scan for Licenses: software sent to this process is read to see if it contains any licenses, then is sent back to "Check Software"
 
-Check Software:
+ * Check Software: this process acts as a hub process, redirecting information it receives based on what it is and where it comes from:
+   :--|:--|:--
+   Receives|From|Sends To
 
-Retrieve L&V Information:
+ * Retrieve L&V Information:
 
-Write Policy:
+ * Write Policy:
 
-Modify Existing Policy:
+ * Modify Existing Policy:
 
-Compare Package:
+ * Compare Package:
 
 ## Data Repositories:
 
