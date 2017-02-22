@@ -12,4 +12,7 @@ Stakeholders:
 
 Preconditions:
   * Relevant software information is provided
-Main Success Scenario: 
+
+Main Success Scenario: Developer receives accurate license and vulnerability information for the requested software package
+
+Failed End Connections: 
