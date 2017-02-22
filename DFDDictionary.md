@@ -14,7 +14,7 @@
  | ------------------------ | --------------------------- | -------------------------------------------------------------------------------- |
  | Software Package         | Developer                   | Scan for Licenses, NIST Vulnerability Database                                   |
  | Software Licenses        | Scan for Licenses           | Developer, License & Vulnerability Database (in Software Scan Results)           |
- | Software Vulnerabilities | NIST Vulnerability Database |
+ | Software Vulnerabilities | NIST Vulnerability Database | Developer, License & Vulnerability Database (in Software scan Results |
 
  * Retrieve L&V Information:
 
