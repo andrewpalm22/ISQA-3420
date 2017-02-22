@@ -11,7 +11,7 @@
  * Check Software: this process acts as a hub process, redirecting information it receives based on what it is and where it comes from:
  
  | Receives | From | Sends To |
- | -- | -- | -- |
+ | -------- | ---- | -------- |
  | Software Package         | Developer                   | Scan for Licenses, NIST Vulnerability Database                                   |
  | Software Licenses        | Scan for Licenses           | Developer, License & Vulnerability Database (in Software Scan Results)           |
  | Software Vulnerabilities | NIST Vulnerability Database | Developer, License & Vulnerability Database (in Software scan Results |
