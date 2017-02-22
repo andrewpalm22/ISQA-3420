@@ -29,11 +29,11 @@
 
 ## Data Repositories:
 
-NIST Vulnerability Database:
+NIST Vulnerability Database: National known vulnerability database
 
-License & Vulnerability Database:
+License & Vulnerability Database: company database containing license & vulnerability information on company software
 
-Policy Database:
+Policy Database: company database containing policy documents
 
 ## Data Flows:
 
