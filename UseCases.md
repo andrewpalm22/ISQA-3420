@@ -17,3 +17,5 @@ Main Success Scenario: Developer receives accurate license and vulnerability inf
 
 Failed End Connections: Developer recieves inaccurate and/or invalid license and vulnerability information for the requested
 software package
+
+Trigger: Developer uploads software package to the server to be checked 
