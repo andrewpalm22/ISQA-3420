@@ -36,4 +36,14 @@ Preconditions:
  * Relevant policy information is provided
  * Manager has access to policy database
  
- Main
+Main Success Scenario: Manager is able to successfully write the new policy information to the policy database
+
+Failed End Connections: 
+ * Inaccurate and/or invalid policy information is written to the database
+ * Policy information write fails
+ 
+Trigger: Manager desires to add new policy information to the policy database
+
+Use Case 3
+===========
+### Title: 
