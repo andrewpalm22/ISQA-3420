@@ -37,26 +37,26 @@ Policy Database: company database containing policy documents
 
 ## Data Flows:
 
-Software Package:
+Software Package: software created by the Developer
 
-Software Licenses:
+Software Licenses: Licenses detected in Software Package by Scan for Licenses
 
-Software Scan Results:
+Software Scan Results: combination of Software Licenses and Software Vulnerabilities
 
-Software Vulnerabilities:
+Software Vulnerabilities: Vulnerabilities detected in Software Package
 
-L&V Results:
+L&V Results: License & Vulnerability information requested from License & Vulnerability Database by Manager or Developer
 
-Request L&V:
+Request L&V: Request for License & Vulnerability information from Developer or Manager
 
-Policy Package:
+Policy Package: Policy document being submitted to or retreived from Policy Database
 
-Request Policy:
+Request Policy: Request sent by Manager for existing policy document in Policy Database
 
-Modified Policy:
+Modified Policy: Existing policy that has been edited/changed by Manager
 
-Project Request:
+Project Request: collection of software documents submitted by Manager to be checked against the Policy Database
 
-PR Results:
+PR Results: Results of existing policy being compared to Project Request
 
-Policy Results:
+Policy Results: Existing Policy that applies to Project Request
