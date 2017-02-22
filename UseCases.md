@@ -1,6 +1,6 @@
 Use Case 1 
 ===========
-### Title: Check Software for Licenses & Vulnerabilities
+### Title: Check Software Package for Licenses & Vulnerabilities
 
 Primary Actor: Developer
 
@@ -15,4 +15,5 @@ Preconditions:
 
 Main Success Scenario: Developer receives accurate license and vulnerability information for the requested software package
 
-Failed End Connections: 
+Failed End Connections: Developer recieves inaccurate and/or invalid license and vulnerability information for the requested
+software package
