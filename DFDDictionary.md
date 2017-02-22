@@ -16,13 +16,16 @@
  | Software Licenses | Scan for Licenses | Developer, License & Vulnerability Database (in Software Scan Results) |
  | Software Vulnerabilities | NIST Vulnerability Database | Developer, License & Vulnerability Database (in Software scan Results |
 
- * Retrieve L&V Information:
+ * Retrieve L&V Information: receives a request for license and vulnerabilites from either the develoer or manager, queries the
+   License & Vulnerability Database, and sends the results back to whichever entity submitted the request
 
- * Write Policy:
+ * Write Policy: receives a new policy document and writes it to the Policy Database
 
- * Modify Existing Policy:
+ * Modify Existing Policy: receives a request for existing, queries the Policy Database for it, and sends it back to the Manager.
+   Then receives a modified policy document from the Manager and writes it to the policy database
 
- * Compare Package:
+ * Compare Package: recieves a project request from the Manager and compares it to existing policy in the Policy Database, then
+   sends the results back to the Manager
 
 ## Data Repositories:
 
