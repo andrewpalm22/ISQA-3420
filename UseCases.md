@@ -46,4 +46,23 @@ Trigger: Manager desires to add new policy information to the policy database
 
 Use Case 3
 ===========
-### Title: 
+### Title: Get License & Vulnerability Information from Database
+
+Primary Actors: Developer, Manager
+
+Goal in Context: The Developer or Manager is able to request and receive license & vulnerability information from the database
+
+Stakeholders:
+ * Developer: license & vulnerability information may be used in the development of new software
+ * Manager: license & vulnerability information may me used in writing new or modifying existing policy
+ 
+Preconditions:
+ * Manager or Developer submits request for information
+ 
+Main Success Scenario: Manager or Developer is able to successfully retreive license & vulnerability information from the database
+
+Failed End Connections:
+ * Request for license & vulnerability information is not successfully sent
+ * Invalid or inaccurate license & vulnerability information is returned
+ 
+Trigger: Manager or Developer submits request for license & vulnerability information
