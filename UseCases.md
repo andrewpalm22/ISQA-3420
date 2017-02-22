@@ -1,5 +1,7 @@
-Use Case 1: Check Software for Licenses & Vulnerabilities
-==========================================================
+Use Case 1 
+===========
+Check Software for Licenses & Vulnerabilities
+----------------------------------------------
 Primary Actor: Developer
 
 Goal in Context: The Developer is able to determine the license and vulnerability information in a provided software package
